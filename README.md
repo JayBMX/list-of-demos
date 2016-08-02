@@ -21,7 +21,7 @@ Another area of great interest to Bluemix users is the **Internet of Things (IoT
 
 If you want to go beyond a single device, why not drive a few virtual **connected cars** around Las Vegas? You can even simulate accidents or make the roads freeze over: http://connected-car.mybluemix.net
 
-How about using the IBM Blockchain service along with IoT devices to instrument and track shipments in your supply chain? Here is the demo: https://discover-iot-blockchain-staging.eu-gb.mybluemix.net/iot-blockchain.html
+How about using the **IBM Blockchain service** along with IoT temperature sensors to instrument and track shipments in your supply chain? Here is the demo: https://discover-iot-blockchain-staging.eu-gb.mybluemix.net/iot-blockchain.html
 
 
 ## "In Depth" Demos
