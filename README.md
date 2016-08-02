@@ -4,9 +4,9 @@ Here is a list of existing and interactive demos that show off the Bluemix platf
 
 ## "5 minute" Demos
 
-If you only have a few minutes to illustrate a core concept, here is a list of "ready to go" demos that are already deployed and don't require any setup ore preparation time.
+Sometimes you only have a few minutes to illustrate a core concept. Here is a list of "ready to go" demos that are already deployed and don't require any setup or preparation time.
 
-Let's start off with **IBM Watson**. Here is a link to the Watson Developer Cloud with 20 well documented and already deployed demos: http://www.ibm.com/watson/developercloud/starter-kits.html
+Let's start off with **IBM Watson**. Here is a link to the Watson Developer Cloud with 20 well documented demos: http://www.ibm.com/watson/developercloud/starter-kits.html
 
 But there are (many) more demos showing off our growing catalog of cognitive services:
  - **Real-time tone analysis**: https://realtime-tone.mybluemix.net
@@ -17,9 +17,9 @@ But there are (many) more demos showing off our growing catalog of cognitive ser
 
 Chat interfaces are becoming more prevalent in many use cases. How about using the **conversation service** to build one? Here is a demo: https://conversation-demo.mybluemix.net/
 
-Another area of great interest to Bluemix users is the **Internet of Things (IoT)**. Here is a demo that allows you to connect your phone to the IoT platform and then visualize its sensor data: http://discover-iot.eu-gb.mybluemix.net/#/play
+Another area of great interest to Bluemix users is the **Internet of Things (IoT)**. This demo allows you to connect your phone to the IoT platform and then visualize its sensor data: http://discover-iot.eu-gb.mybluemix.net/#/play
 
-If you want to go beyond a single device, why not drive a few virtual **connected cars** around in Las Vegas? You can even simulate accidents or make the roads freeze over: http://connected-car.mybluemix.net
+If you want to go beyond a single device, why not drive a few virtual **connected cars** around Las Vegas? You can even simulate accidents or make the roads freeze over: http://connected-car.mybluemix.net
 
 How about using the IBM Blockchain service along with IoT devices to instrument and track shipments in your supply chain? Here is the demo: https://discover-iot-blockchain-staging.eu-gb.mybluemix.net/iot-blockchain.html
 
