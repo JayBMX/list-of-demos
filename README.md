@@ -9,11 +9,11 @@ Sometimes you only have a few minutes to illustrate a core concept. Here is a li
 Let's start off with **IBM Watson**. Here is a link to the Watson Developer Cloud with 20 well documented demos: http://www.ibm.com/watson/developercloud/starter-kits.html
 
 But there are (many) more demos showing off our growing catalog of cognitive services:
- - **Real-time tone analysis**: https://realtime-tone.mybluemix.net
- - **Visual recognition**: https://visual-recognition-demo.mybluemix.net
- - **Speech to text**: https://speech-to-text-demo.mybluemix.net
- - **Text to speech**: https://text-to-speech-demo.mybluemix.net
- - **Tradeoff analytics**: https://tradeoff-analytics-demo.mybluemix.net
+- **Real-time tone analysis**: https://realtime-tone.mybluemix.net
+- **Visual recognition**: https://visual-recognition-demo.mybluemix.net
+- **Speech to text**: https://speech-to-text-demo.mybluemix.net
+- **Text to speech**: https://text-to-speech-demo.mybluemix.net
+- **Tradeoff analytics**: https://tradeoff-analytics-demo.mybluemix.net
 
 Chat interfaces are becoming more prevalent in many use cases. How about using the **conversation service** to build one? Here is a demo: https://conversation-demo.mybluemix.net/
 
@@ -24,11 +24,23 @@ If you want to go beyond a single device, why not drive a few virtual **connecte
 How about using the **IBM Blockchain service** along with IoT temperature sensors to instrument and track shipments in your supply chain? Here is the demo: https://discover-iot-blockchain-staging.eu-gb.mybluemix.net/iot-blockchain.html
 
 
+
 ## "In Depth" Demos
 
-Here is a list of more complex demos that require coding knowledge and/or significant setup time and effort.
+Here is a list of more complex "demo architectures" that require coding knowledge and/or significant setup time and effort.
 
-> Work in progress
+The **Logistics Wizard** architecture is an end-to-end, smart supply chain management solution that showcases how to execute hybrid cloud, microservices, and predictive data analytics in the real world.
+
+Github link here: https://github.com/IBM-Bluemix/logistics-wizard
+
+Running application here: http://dev-logistics-wizard.mybluemix.net/
+
+A second architecture is called **CloudCo Insurance** and demonstrates how to use cognitive technologies (e.g. a chatbot or Watson trade-off analytics) to enhance user experiences.
+
+Github link here: https://github.com/IBM-Bluemix/cloudco-insurance
+
+Running application here: https://cloudco.mybluemix.net/
+
 
 
 ## Something not working for you?
